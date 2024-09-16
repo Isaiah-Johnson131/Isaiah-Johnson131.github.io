@@ -1,5 +1,4 @@
-h1{color: rgb(184, 32, 215);}
+h1{color: rgb(184, 32, 215);background-color: antiquewhite;width: 800px;margin: auto;}
 table{width: 800px;}
-body{background-color: rgb(66, 162, 230);}
+body{background-color: rgb(66, 162, 230);margin: auto;}
 #content{color: black;width: 800px;margin: auto;padding: 20px;background-color: antiquewhite;}
-h1{background-color: antiquewhite;width: 800px;}
